@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# Mandy Pfau
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+16552 Turquoise Trail Weston, Florida 33331  
+954-604-3316 mandypfau@knights.ucf.edu
 
-## Available Scripts
+## Professional Summary
 
-In the project directory, you can run:
+To seek a position to work with the senior community in helping them live happy and healthy lives to the fullest. Use acquired skills such as working well with others, creatively thinking, managing time and reacting quickly to tough situations as well as compassion for the elderly.
 
-### `npm start`
+## Education
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+University of Central Florida, Orlando, FL  
+Pursuing Bachelor of Arts in Digital Media and Minor in Aging Studies  
+Expected graduation date: May 2024  
+Grade Point Average: 3.7/4.0
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Professional Experience
 
-### `npm test`
+**Member Services Associate**: University of Central Florida Recreation and Wellness Facility (8/2021 - Present)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Camp Counselor (Seasonal)**: Surprise Lake Camp – Cold Spring, NY (6/2018 – Present)
 
-### `npm run build`
+## Relevant Coursework in Aging Studies Minor
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Gerontology: An Interdisciplinary Perspective
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Health Care Needs of the Elderly
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Volunteer Experience
 
-### `npm run eject`
+Runners Club Manager: City of Pembroke Pines Charter, FSU Campus-Pembroke Pines, Florida (11/2016-4/2019)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Wellness Committee: City of Pembroke Pines Charter Schools, - Pembroke Pines, FL(10/2016-2/2020)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Skills/Certifications
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- CPR/First aid certified
+- Frequently commended by supervisors, colleagues and professors for always having a positive outlook.
+- Self-motivated learner with a desire to exceed expectations at all times.
+- Does everything with enthusiasm and organization.
+- Excels with time management
+- Excels with listening to others and compassion
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Projects
 
-## Learn More
+### React Native Quiz App
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![React Native Quiz App Screenshot](screenshot-placeholder.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+A React Native app that allows users to take quizzes using flashcards and fill-in-the-blank questions.
 
-### Code Splitting
+- [GitHub Repository](https://github.com/yourusername/your-repository)
+- [Live Project](https://yourusername.github.io/your-project)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+***References available upon request***
